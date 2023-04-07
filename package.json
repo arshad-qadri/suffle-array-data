@@ -1,0 +1,18 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "arshad-qadri <arshad.q@caprium.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshad-qadri/suffle-array-data.git"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
